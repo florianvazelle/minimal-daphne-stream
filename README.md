@@ -1,4 +1,6 @@
-# Minimal Example 
+# Minimal Daphne Stream Example
+
+This example is intended to provide a way to reproduce the Daphne stream issue [django/daphne#413](https://github.com/django/daphne/issues/413).
 
 ## Setup
 
